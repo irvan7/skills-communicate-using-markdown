@@ -6,3 +6,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Added headers in different HTML heading levels.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
